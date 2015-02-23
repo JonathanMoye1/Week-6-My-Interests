@@ -1,0 +1,440 @@
+TMyFavBands
+v7
+r0
+t446419395.404266
+cCheck dependencies
+cProcessInfoPlistFile "/Users/webstudent/Desktop/Week-6-My Interests/Interests/build/Debug-iphonesimulator/MyFavBands.app/Info.plist" MyFavBands/Info.plist
+cCpResource build/Debug-iphonesimulator/MyFavBands.app/grits.jpg ../../grits.jpg
+cCpResource build/Debug-iphonesimulator/MyFavBands.app/okra.jpg ../../okra.jpg
+cCpResource build/Debug-iphonesimulator/MyFavBands.app/peppers.jpg ../../peppers.jpg
+cCpResource build/Debug-iphonesimulator/MyFavBands.app/Main.png Main.png
+cCpResource build/Debug-iphonesimulator/MyFavBands.app/beans.jpg ../../beans.jpg
+cCpResource build/Debug-iphonesimulator/MyFavBands.app/curry.jpg ../../curry.jpg
+cCpResource build/Debug-iphonesimulator/MyFavBands.app/logo76.png logo76.png
+cCpResource build/Debug-iphonesimulator/MyFavBands.app/Base.lproj/Main.storyboard MyFavBands/Base.lproj/Main.storyboard
+cCpResource build/Debug-iphonesimulator/MyFavBands.app/logo402.png logo402.png
+cCpResource build/Debug-iphonesimulator/MyFavBands.app/catfish.jpg ../../catfish.jpg
+cCpResource build/Debug-iphonesimulator/MyFavBands.app/cactus.jpg ../../cactus.jpg
+cCpResource build/Debug-iphonesimulator/MyFavBands.app/crawfish.jpg ../../crawfish.jpg
+cCpResource build/Debug-iphonesimulator/MyFavBands.app/logo292.png logo292.png
+cCpResource build/Debug-iphonesimulator/MyFavBands.app/sushi.jpg ../../sushi.jpg
+cCompileXIB "/Users/webstudent/Desktop/Week-6-My Interests/Interests/MyFavBands/Base.lproj/LaunchScreen.xib"
+cCpResource build/Debug-iphonesimulator/MyFavBands.app/pho.jpg ../../pho.jpg
+cCpResource "build/Debug-iphonesimulator/MyFavBands.app/Miranda Lambert.jpg" "Miranda Lambert.jpg"
+cCpResource build/Debug-iphonesimulator/MyFavBands.app/logo291.png logo291.png
+cCpResource build/Debug-iphonesimulator/MyFavBands.app/Images.xcassets MyFavBands/Images.xcassets
+cCpResource build/Debug-iphonesimulator/MyFavBands.app/logo401.png logo401.png
+cCpResource build/Debug-iphonesimulator/MyFavBands.app/logo152.png logo152.png
+
+N/Users/webstudent/Desktop/Week-6-My Interests/Interests/../../beans.jpg
+c0000000054EB941B00000000000E13EE
+t1424725019
+s922606
+
+N/Users/webstudent/Desktop/Week-6-My Interests/Interests/../../cactus.jpg
+c0000000054EB9550000000000003857E
+t1424725328
+s230782
+
+N/Users/webstudent/Desktop/Week-6-My Interests/Interests/../../catfish.jpg
+c0000000054EB93A200000000000A81AA
+t1424724898
+s688554
+
+N/Users/webstudent/Desktop/Week-6-My Interests/Interests/../../crawfish.jpg
+c0000000054EB94800000000000343DEE
+t1424725120
+s3423726
+
+N/Users/webstudent/Desktop/Week-6-My Interests/Interests/../../curry.jpg
+c0000000054EB93660000000000025581
+t1424724838
+s152961
+
+N/Users/webstudent/Desktop/Week-6-My Interests/Interests/../../grits.jpg
+c0000000054EB93D7000000000005525D
+t1424724951
+s348765
+
+N/Users/webstudent/Desktop/Week-6-My Interests/Interests/../../okra.jpg
+c0000000054EB94430000000000049985
+t1424725059
+s301445
+
+N/Users/webstudent/Desktop/Week-6-My Interests/Interests/../../peppers.jpg
+c0000000054EB94E9000000000002611E
+t1424725225
+s155934
+
+N/Users/webstudent/Desktop/Week-6-My Interests/Interests/../../pho.jpg
+c0000000054EB933E0000000000033F1D
+t1424724798
+s212765
+
+N/Users/webstudent/Desktop/Week-6-My Interests/Interests/../../sushi.jpg
+c0000000054EB931100000000000910C3
+t1424724753
+s594115
+
+N/Users/webstudent/Desktop/Week-6-My Interests/Interests/Main.png
+c0000000054EB95DD0000000000001EC2
+t1424725469
+s7874
+
+N/Users/webstudent/Desktop/Week-6-My Interests/Interests/Miranda Lambert.jpg
+c0000000054E29B9600000000000609F7
+t1424137110
+s395767
+
+N/Users/webstudent/Desktop/Week-6-My Interests/Interests/MyFavBands/Base.lproj/LaunchScreen.xib
+c0000000054E29B960000000000000E82
+t1424137110
+s3714
+
+N/Users/webstudent/Desktop/Week-6-My Interests/Interests/MyFavBands/Base.lproj/Main.storyboard
+c0000000054E29B9600000000000025F4
+t1424137110
+s9716
+
+N/Users/webstudent/Desktop/Week-6-My Interests/Interests/MyFavBands/Images.xcassets
+c0000000054E29B960000000000000066
+t1424137110
+s102
+
+N/Users/webstudent/Desktop/Week-6-My Interests/Interests/build/Debug-iphonesimulator/MyFavBands.app
+t1424726595
+s816
+
+N/Users/webstudent/Desktop/Week-6-My Interests/Interests/build/Debug-iphonesimulator/MyFavBands.app/Base.lproj/LaunchScreen.nib
+t2
+s0
+
+N/Users/webstudent/Desktop/Week-6-My Interests/Interests/build/Debug-iphonesimulator/MyFavBands.app/Base.lproj/Main.storyboard
+t1424726594
+s9716
+
+N/Users/webstudent/Desktop/Week-6-My Interests/Interests/build/Debug-iphonesimulator/MyFavBands.app/Images.xcassets
+t1424726595
+s102
+
+N/Users/webstudent/Desktop/Week-6-My Interests/Interests/build/Debug-iphonesimulator/MyFavBands.app/Info.plist
+t1424726594
+s1064
+
+N/Users/webstudent/Desktop/Week-6-My Interests/Interests/build/Debug-iphonesimulator/MyFavBands.app/Main.png
+t1424726594
+s7874
+
+N/Users/webstudent/Desktop/Week-6-My Interests/Interests/build/Debug-iphonesimulator/MyFavBands.app/Miranda Lambert.jpg
+t1424726595
+s395767
+
+N/Users/webstudent/Desktop/Week-6-My Interests/Interests/build/Debug-iphonesimulator/MyFavBands.app/PkgInfo
+t1424726594
+s8
+
+N/Users/webstudent/Desktop/Week-6-My Interests/Interests/build/Debug-iphonesimulator/MyFavBands.app/beans.jpg
+t1424726594
+s922606
+
+N/Users/webstudent/Desktop/Week-6-My Interests/Interests/build/Debug-iphonesimulator/MyFavBands.app/cactus.jpg
+t1424726594
+s230782
+
+N/Users/webstudent/Desktop/Week-6-My Interests/Interests/build/Debug-iphonesimulator/MyFavBands.app/catfish.jpg
+t1424726594
+s688554
+
+N/Users/webstudent/Desktop/Week-6-My Interests/Interests/build/Debug-iphonesimulator/MyFavBands.app/crawfish.jpg
+t1424726595
+s3423726
+
+N/Users/webstudent/Desktop/Week-6-My Interests/Interests/build/Debug-iphonesimulator/MyFavBands.app/curry.jpg
+t1424726594
+s152961
+
+N/Users/webstudent/Desktop/Week-6-My Interests/Interests/build/Debug-iphonesimulator/MyFavBands.app/grits.jpg
+t1424726594
+s348765
+
+N/Users/webstudent/Desktop/Week-6-My Interests/Interests/build/Debug-iphonesimulator/MyFavBands.app/logo152.png
+t1424726595
+s7874
+
+N/Users/webstudent/Desktop/Week-6-My Interests/Interests/build/Debug-iphonesimulator/MyFavBands.app/logo291.png
+t1424726595
+s7874
+
+N/Users/webstudent/Desktop/Week-6-My Interests/Interests/build/Debug-iphonesimulator/MyFavBands.app/logo292.png
+t1424726595
+s7874
+
+N/Users/webstudent/Desktop/Week-6-My Interests/Interests/build/Debug-iphonesimulator/MyFavBands.app/logo401.png
+t1424726595
+s7874
+
+N/Users/webstudent/Desktop/Week-6-My Interests/Interests/build/Debug-iphonesimulator/MyFavBands.app/logo402.png
+t1424726594
+s7874
+
+N/Users/webstudent/Desktop/Week-6-My Interests/Interests/build/Debug-iphonesimulator/MyFavBands.app/logo76.png
+t1424726594
+s7874
+
+N/Users/webstudent/Desktop/Week-6-My Interests/Interests/build/Debug-iphonesimulator/MyFavBands.app/okra.jpg
+t1424726594
+s301445
+
+N/Users/webstudent/Desktop/Week-6-My Interests/Interests/build/Debug-iphonesimulator/MyFavBands.app/peppers.jpg
+t1424726594
+s155934
+
+N/Users/webstudent/Desktop/Week-6-My Interests/Interests/build/Debug-iphonesimulator/MyFavBands.app/pho.jpg
+t1424726595
+s212765
+
+N/Users/webstudent/Desktop/Week-6-My Interests/Interests/build/Debug-iphonesimulator/MyFavBands.app/sushi.jpg
+t1424726595
+s594115
+
+N/Users/webstudent/Desktop/Week-6-My Interests/Interests/logo152.png
+c0000000054EB95DD0000000000001EC2
+t1424725469
+s7874
+
+N/Users/webstudent/Desktop/Week-6-My Interests/Interests/logo291.png
+c0000000054EB95DD0000000000001EC2
+t1424725469
+s7874
+
+N/Users/webstudent/Desktop/Week-6-My Interests/Interests/logo292.png
+c0000000054EB95DD0000000000001EC2
+t1424725469
+s7874
+
+N/Users/webstudent/Desktop/Week-6-My Interests/Interests/logo401.png
+c0000000054EB95DD0000000000001EC2
+t1424725469
+s7874
+
+N/Users/webstudent/Desktop/Week-6-My Interests/Interests/logo402.png
+c0000000054EB95DD0000000000001EC2
+t1424725469
+s7874
+
+N/Users/webstudent/Desktop/Week-6-My Interests/Interests/logo76.png
+c0000000054EB95DD0000000000001EC2
+t1424725469
+s7874
+
+NMyFavBands/Info.plist
+c0000000054E29B9600000000000006B9
+t1424137110
+s1721
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies446419394#446419394#0(378"[WARN]warning: no rule to process file '$(PROJECT_DIR)/MyFavBands/DetailViewController.swift' of type file for architecture i386[WARN]warning: no rule to process file '$(PROJECT_DIR)/MyFavBands/MasterViewController.swift' of type file for architecture i386[WARN]warning: no rule to process file '$(PROJECT_DIR)/MyFavBands/AppDelegate.swift' of type file for architecture i3863(22@122"warning: no rule to process file '$(PROJECT_DIR)/MyFavBands/DetailViewController.swift' of type file for architecture i386446419394#18446744073709551615#0#0(1@0"0(22@122"warning: no rule to process file '$(PROJECT_DIR)/MyFavBands/MasterViewController.swift' of type file for architecture i386446419394#18446744073709551615#0#0(1@0"0(22@113"warning: no rule to process file '$(PROJECT_DIR)/MyFavBands/AppDelegate.swift' of type file for architecture i386446419394#18446744073709551615#0#0(1@0"0(0#1#0"17239367680#0"0#
+
+CCompileXIB "/Users/webstudent/Desktop/Week-6-My Interests/Interests/MyFavBands/Base.lproj/LaunchScreen.xib"
+s446419394.907125
+e446419395.202818
+r0
+xCompileXIB
+x/Users/webstudent/Desktop/Week-6-My Interests/Interests/MyFavBands/Base.lproj/LaunchScreen.xib
+o/* com.apple.ibtool.errors */
+o/Users/webstudent/Desktop/Week-6-My Interests/Interests/MyFavBands/Base.lproj/LaunchScreen.xib: error: Interface Builder was unable to determine the type of "LaunchScreen.xib".
+lSLF07#2@49"CompileXIB MyFavBands/Base.lproj/LaunchScreen.xib446419394#446419395#0(207"/* com.apple.ibtool.errors *//Users/webstudent/Desktop/Week-6-My Interests/Interests/MyFavBands/Base.lproj/LaunchScreen.xib: error: Interface Builder was unable to determine the type of "LaunchScreen.xib".1(4@73"Interface Builder was unable to determine the type of "LaunchScreen.xib".446419395#18446744073709551615#0#0(6@94"/Users/webstudent/Desktop/Week-6-My Interests/Interests/MyFavBands/Base.lproj/LaunchScreen.xib445829910#0#0#0#0#0"0(0#0#94"/Users/webstudent/Desktop/Week-6-My Interests/Interests/MyFavBands/Base.lproj/LaunchScreen.xib4317954048#667"    cd "/Users/webstudent/Desktop/Week-6-My Interests/Interests"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 8.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/webstudent/Desktop/Week-6-My Interests/Interests/build/Debug-iphonesimulator/MyFavBands.app/Base.lproj/LaunchScreen.nib" "/Users/webstudent/Desktop/Week-6-My Interests/Interests/MyFavBands/Base.lproj/LaunchScreen.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk1#
+
+CCpResource "build/Debug-iphonesimulator/MyFavBands.app/Miranda Lambert.jpg" "Miranda Lambert.jpg"
+s446419395.203821
+e446419395.215313
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyFavBands.app/Miranda Lambert.jpg
+xMiranda Lambert.jpg
+lSLF07#2@24"Copy Miranda Lambert.jpg446419395#446419395#0(0"0(0#0#75"/Users/webstudent/Desktop/Week-6-My Interests/Interests/Miranda Lambert.jpg4317954048#537"    cd "/Users/webstudent/Desktop/Week-6-My Interests/Interests"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/webstudent/Desktop/Week-6-My Interests/Interests/Miranda Lambert.jpg" "/Users/webstudent/Desktop/Week-6-My Interests/Interests/build/Debug-iphonesimulator/MyFavBands.app"0#
+
+CCpResource build/Debug-iphonesimulator/MyFavBands.app/Base.lproj/Main.storyboard MyFavBands/Base.lproj/Main.storyboard
+s446419394.698966
+e446419394.906881
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyFavBands.app/Base.lproj/Main.storyboard
+xMyFavBands/Base.lproj/Main.storyboard
+lSLF07#2@42"Copy MyFavBands/Base.lproj/Main.storyboard446419394#446419395#0(0"0(0#0#93"/Users/webstudent/Desktop/Week-6-My Interests/Interests/MyFavBands/Base.lproj/Main.storyboard4317954048#566"    cd "/Users/webstudent/Desktop/Week-6-My Interests/Interests"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/webstudent/Desktop/Week-6-My Interests/Interests/MyFavBands/Base.lproj/Main.storyboard" "/Users/webstudent/Desktop/Week-6-My Interests/Interests/build/Debug-iphonesimulator/MyFavBands.app/Base.lproj"0#
+
+CCpResource build/Debug-iphonesimulator/MyFavBands.app/Images.xcassets MyFavBands/Images.xcassets
+s446419395.206195
+e446419395.404210
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyFavBands.app/Images.xcassets
+xMyFavBands/Images.xcassets
+lSLF07#2@31"Copy MyFavBands/Images.xcassets446419395#446419395#0(0"0(0#0#82"/Users/webstudent/Desktop/Week-6-My Interests/Interests/MyFavBands/Images.xcassets4317954048#544"    cd "/Users/webstudent/Desktop/Week-6-My Interests/Interests"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/webstudent/Desktop/Week-6-My Interests/Interests/MyFavBands/Images.xcassets" "/Users/webstudent/Desktop/Week-6-My Interests/Interests/build/Debug-iphonesimulator/MyFavBands.app"0#
+
+CCpResource build/Debug-iphonesimulator/MyFavBands.app/Main.png Main.png
+s446419394.693956
+e446419394.906775
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyFavBands.app/Main.png
+xMain.png
+lSLF07#2@13"Copy Main.png446419394#446419395#0(0"0(0#0#64"/Users/webstudent/Desktop/Week-6-My Interests/Interests/Main.png4317954048#526"    cd "/Users/webstudent/Desktop/Week-6-My Interests/Interests"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/webstudent/Desktop/Week-6-My Interests/Interests/Main.png" "/Users/webstudent/Desktop/Week-6-My Interests/Interests/build/Debug-iphonesimulator/MyFavBands.app"0#
+
+CCpResource build/Debug-iphonesimulator/MyFavBands.app/beans.jpg ../../beans.jpg
+s446419394.694547
+e446419394.901837
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyFavBands.app/beans.jpg
+x../../beans.jpg
+lSLF07#2@20"Copy ../../beans.jpg446419394#446419395#0(0"0(0#0#71"/Users/webstudent/Desktop/Week-6-My Interests/Interests/../../beans.jpg4317954048#533"    cd "/Users/webstudent/Desktop/Week-6-My Interests/Interests"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/webstudent/Desktop/Week-6-My Interests/Interests/../../beans.jpg" "/Users/webstudent/Desktop/Week-6-My Interests/Interests/build/Debug-iphonesimulator/MyFavBands.app"0#
+
+CCpResource build/Debug-iphonesimulator/MyFavBands.app/cactus.jpg ../../cactus.jpg
+s446419394.899759
+e446419394.995255
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyFavBands.app/cactus.jpg
+x../../cactus.jpg
+lSLF07#2@21"Copy ../../cactus.jpg446419394#446419395#0(0"0(0#0#72"/Users/webstudent/Desktop/Week-6-My Interests/Interests/../../cactus.jpg17191611392#534"    cd "/Users/webstudent/Desktop/Week-6-My Interests/Interests"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/webstudent/Desktop/Week-6-My Interests/Interests/../../cactus.jpg" "/Users/webstudent/Desktop/Week-6-My Interests/Interests/build/Debug-iphonesimulator/MyFavBands.app"0#
+
+CCpResource build/Debug-iphonesimulator/MyFavBands.app/catfish.jpg ../../catfish.jpg
+s446419394.702021
+e446419394.949810
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyFavBands.app/catfish.jpg
+x../../catfish.jpg
+lSLF07#2@22"Copy ../../catfish.jpg446419394#446419395#0(0"0(0#0#73"/Users/webstudent/Desktop/Week-6-My Interests/Interests/../../catfish.jpg4317954048#535"    cd "/Users/webstudent/Desktop/Week-6-My Interests/Interests"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/webstudent/Desktop/Week-6-My Interests/Interests/../../catfish.jpg" "/Users/webstudent/Desktop/Week-6-My Interests/Interests/build/Debug-iphonesimulator/MyFavBands.app"0#
+
+CCpResource build/Debug-iphonesimulator/MyFavBands.app/crawfish.jpg ../../crawfish.jpg
+s446419394.902009
+e446419395.403522
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyFavBands.app/crawfish.jpg
+x../../crawfish.jpg
+lSLF07#2@23"Copy ../../crawfish.jpg446419394#446419395#0(0"0(0#0#74"/Users/webstudent/Desktop/Week-6-My Interests/Interests/../../crawfish.jpg4317954048#536"    cd "/Users/webstudent/Desktop/Week-6-My Interests/Interests"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/webstudent/Desktop/Week-6-My Interests/Interests/../../crawfish.jpg" "/Users/webstudent/Desktop/Week-6-My Interests/Interests/build/Debug-iphonesimulator/MyFavBands.app"0#
+
+CCpResource build/Debug-iphonesimulator/MyFavBands.app/curry.jpg ../../curry.jpg
+s446419394.696025
+e446419394.899658
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyFavBands.app/curry.jpg
+x../../curry.jpg
+lSLF07#2@20"Copy ../../curry.jpg446419394#446419395#0(0"0(0#0#71"/Users/webstudent/Desktop/Week-6-My Interests/Interests/../../curry.jpg4317954048#533"    cd "/Users/webstudent/Desktop/Week-6-My Interests/Interests"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/webstudent/Desktop/Week-6-My Interests/Interests/../../curry.jpg" "/Users/webstudent/Desktop/Week-6-My Interests/Interests/build/Debug-iphonesimulator/MyFavBands.app"0#
+
+CCpResource build/Debug-iphonesimulator/MyFavBands.app/grits.jpg ../../grits.jpg
+s446419394.690938
+e446419394.906561
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyFavBands.app/grits.jpg
+x../../grits.jpg
+lSLF07#2@20"Copy ../../grits.jpg446419394#446419395#0(0"0(0#0#71"/Users/webstudent/Desktop/Week-6-My Interests/Interests/../../grits.jpg4317954048#533"    cd "/Users/webstudent/Desktop/Week-6-My Interests/Interests"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/webstudent/Desktop/Week-6-My Interests/Interests/../../grits.jpg" "/Users/webstudent/Desktop/Week-6-My Interests/Interests/build/Debug-iphonesimulator/MyFavBands.app"0#
+
+CCpResource build/Debug-iphonesimulator/MyFavBands.app/logo152.png logo152.png
+s446419395.209324
+e446419395.314773
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyFavBands.app/logo152.png
+xlogo152.png
+lSLF07#2@16"Copy logo152.png446419395#446419395#0(0"0(0#0#67"/Users/webstudent/Desktop/Week-6-My Interests/Interests/logo152.png4317954048#529"    cd "/Users/webstudent/Desktop/Week-6-My Interests/Interests"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/webstudent/Desktop/Week-6-My Interests/Interests/logo152.png" "/Users/webstudent/Desktop/Week-6-My Interests/Interests/build/Debug-iphonesimulator/MyFavBands.app"0#
+
+CCpResource build/Debug-iphonesimulator/MyFavBands.app/logo291.png logo291.png
+s446419395.204580
+e446419395.314979
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyFavBands.app/logo291.png
+xlogo291.png
+lSLF07#2@16"Copy logo291.png446419395#446419395#0(0"0(0#0#67"/Users/webstudent/Desktop/Week-6-My Interests/Interests/logo291.png4317954048#529"    cd "/Users/webstudent/Desktop/Week-6-My Interests/Interests"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/webstudent/Desktop/Week-6-My Interests/Interests/logo291.png" "/Users/webstudent/Desktop/Week-6-My Interests/Interests/build/Debug-iphonesimulator/MyFavBands.app"0#
+
+CCpResource build/Debug-iphonesimulator/MyFavBands.app/logo292.png logo292.png
+s446419394.903340
+e446419395.048977
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyFavBands.app/logo292.png
+xlogo292.png
+lSLF07#2@16"Copy logo292.png446419394#446419395#0(0"0(0#0#67"/Users/webstudent/Desktop/Week-6-My Interests/Interests/logo292.png4317954048#529"    cd "/Users/webstudent/Desktop/Week-6-My Interests/Interests"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/webstudent/Desktop/Week-6-My Interests/Interests/logo292.png" "/Users/webstudent/Desktop/Week-6-My Interests/Interests/build/Debug-iphonesimulator/MyFavBands.app"0#
+
+CCpResource build/Debug-iphonesimulator/MyFavBands.app/logo401.png logo401.png
+s446419395.207756
+e446419395.302985
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyFavBands.app/logo401.png
+xlogo401.png
+lSLF07#2@16"Copy logo401.png446419395#446419395#0(0"0(0#0#67"/Users/webstudent/Desktop/Week-6-My Interests/Interests/logo401.png4317954048#529"    cd "/Users/webstudent/Desktop/Week-6-My Interests/Interests"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/webstudent/Desktop/Week-6-My Interests/Interests/logo401.png" "/Users/webstudent/Desktop/Week-6-My Interests/Interests/build/Debug-iphonesimulator/MyFavBands.app"0#
+
+CCpResource build/Debug-iphonesimulator/MyFavBands.app/logo402.png logo402.png
+s446419394.700538
+e446419394.906984
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyFavBands.app/logo402.png
+xlogo402.png
+lSLF07#2@16"Copy logo402.png446419394#446419395#0(0"0(0#0#67"/Users/webstudent/Desktop/Week-6-My Interests/Interests/logo402.png4317954048#529"    cd "/Users/webstudent/Desktop/Week-6-My Interests/Interests"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/webstudent/Desktop/Week-6-My Interests/Interests/logo402.png" "/Users/webstudent/Desktop/Week-6-My Interests/Interests/build/Debug-iphonesimulator/MyFavBands.app"0#
+
+CCpResource build/Debug-iphonesimulator/MyFavBands.app/logo76.png logo76.png
+s446419394.697483
+e446419394.901941
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyFavBands.app/logo76.png
+xlogo76.png
+lSLF07#2@15"Copy logo76.png446419394#446419395#0(0"0(0#0#66"/Users/webstudent/Desktop/Week-6-My Interests/Interests/logo76.png4317954048#528"    cd "/Users/webstudent/Desktop/Week-6-My Interests/Interests"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/webstudent/Desktop/Week-6-My Interests/Interests/logo76.png" "/Users/webstudent/Desktop/Week-6-My Interests/Interests/build/Debug-iphonesimulator/MyFavBands.app"0#
+
+CCpResource build/Debug-iphonesimulator/MyFavBands.app/okra.jpg ../../okra.jpg
+s446419394.692141
+e446419394.901724
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyFavBands.app/okra.jpg
+x../../okra.jpg
+lSLF07#2@19"Copy ../../okra.jpg446419394#446419395#0(0"0(0#0#70"/Users/webstudent/Desktop/Week-6-My Interests/Interests/../../okra.jpg4317954048#532"    cd "/Users/webstudent/Desktop/Week-6-My Interests/Interests"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/webstudent/Desktop/Week-6-My Interests/Interests/../../okra.jpg" "/Users/webstudent/Desktop/Week-6-My Interests/Interests/build/Debug-iphonesimulator/MyFavBands.app"0#
+
+CCpResource build/Debug-iphonesimulator/MyFavBands.app/peppers.jpg ../../peppers.jpg
+s446419394.692693
+e446419394.906672
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyFavBands.app/peppers.jpg
+x../../peppers.jpg
+lSLF07#2@22"Copy ../../peppers.jpg446419394#446419395#0(0"0(0#0#73"/Users/webstudent/Desktop/Week-6-My Interests/Interests/../../peppers.jpg4317954048#535"    cd "/Users/webstudent/Desktop/Week-6-My Interests/Interests"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/webstudent/Desktop/Week-6-My Interests/Interests/../../peppers.jpg" "/Users/webstudent/Desktop/Week-6-My Interests/Interests/build/Debug-iphonesimulator/MyFavBands.app"0#
+
+CCpResource build/Debug-iphonesimulator/MyFavBands.app/pho.jpg ../../pho.jpg
+s446419395.202906
+e446419395.270964
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyFavBands.app/pho.jpg
+x../../pho.jpg
+lSLF07#2@18"Copy ../../pho.jpg446419395#446419395#0(0"0(0#0#69"/Users/webstudent/Desktop/Week-6-My Interests/Interests/../../pho.jpg4317954048#531"    cd "/Users/webstudent/Desktop/Week-6-My Interests/Interests"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/webstudent/Desktop/Week-6-My Interests/Interests/../../pho.jpg" "/Users/webstudent/Desktop/Week-6-My Interests/Interests/build/Debug-iphonesimulator/MyFavBands.app"0#
+
+CCpResource build/Debug-iphonesimulator/MyFavBands.app/sushi.jpg ../../sushi.jpg
+s446419394.904908
+e446419395.066066
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MyFavBands.app/sushi.jpg
+x../../sushi.jpg
+lSLF07#2@20"Copy ../../sushi.jpg446419394#446419395#0(0"0(0#0#71"/Users/webstudent/Desktop/Week-6-My Interests/Interests/../../sushi.jpg4317954048#533"    cd "/Users/webstudent/Desktop/Week-6-My Interests/Interests"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/webstudent/Desktop/Week-6-My Interests/Interests/../../sushi.jpg" "/Users/webstudent/Desktop/Week-6-My Interests/Interests/build/Debug-iphonesimulator/MyFavBands.app"0#
+
+CProcessInfoPlistFile "/Users/webstudent/Desktop/Week-6-My Interests/Interests/build/Debug-iphonesimulator/MyFavBands.app/Info.plist" MyFavBands/Info.plist
+s446419394.644817
+e446419394.690852
+r1
+xProcessInfoPlistFile
+x/Users/webstudent/Desktop/Week-6-My Interests/Interests/build/Debug-iphonesimulator/MyFavBands.app/Info.plist
+xMyFavBands/Info.plist
+lSLF07#2@29"Process MyFavBands/Info.plist446419394#446419394#0(0"0(0#0#77"/Users/webstudent/Desktop/Week-6-My Interests/Interests/MyFavBands/Info.plist17205647616#545"    cd "/Users/webstudent/Desktop/Week-6-My Interests/Interests"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MyFavBands/Info.plist -genpkginfo "/Users/webstudent/Desktop/Week-6-My Interests/Interests/build/Debug-iphonesimulator/MyFavBands.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/webstudent/Desktop/Week-6-My Interests/Interests/build/Debug-iphonesimulator/MyFavBands.app/Info.plist"0#
+
+CTouch "/Users/webstudent/Desktop/Week-6-My Interests/Interests/build/Debug-iphonesimulator/MyFavBands.app"
+r0
+
